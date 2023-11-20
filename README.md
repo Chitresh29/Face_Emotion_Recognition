@@ -25,4 +25,5 @@ JSON (JavaScript Object Notation) is employed for model serialization. The train
 Webcam and Video Feed:
 
 The OpenCV library is utilized to capture video frames from a webcam, allowing real-time face emotion recognition from a live video feed.
+
 This project showcases the application of deep learning in recognizing emotions from facial expressions, demonstrating the capabilities of neural networks in image classification tasks.
