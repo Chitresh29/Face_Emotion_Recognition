@@ -1,8 +1,8 @@
-Face Emotion Recognition using Deep Learning
+**Face Emotion Recognition using Deep Learning**
 
 This project employs deep learning techniques to recognize emotions from facial expressions. Utilizing a Convolutional Neural Network (CNN) built with the Keras framework, the system processes facial images and predicts the corresponding emotions, such as happy, sad, or surprised. The model is trained on a dataset containing labeled facial expressions, allowing it to learn patterns and make accurate predictions.
 
-Technologies Used:
+**Technologies Used:**
 
 Keras and TensorFlow:
 
